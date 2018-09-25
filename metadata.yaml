@@ -1,5 +1,5 @@
 _repo: Marion-The-Story-of-an-Artist-s-Model_57920
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Hutt, Henry
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1950
     gutenberg_agent_id: '8076'
     url: http://www.gutenberg.org/2009/agents/8076
+covers:
+- cover_type: archival
+  image_path: 57920-h/images/cover.jpg
 creator:
   author:
     agent_name: Eaton, Winnifred
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '49587'
     url: http://www.gutenberg.org/2009/agents/49587
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57920#Marion-The-Story-of-an-Artist-s-Model
 gutenberg_issued: '2018-09-17'
 gutenberg_type: Text
 identifiers:
